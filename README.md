@@ -1,0 +1,2 @@
+# ActiveReportsJS-SalesSlip
+ActiveReportsJSのシンプルな売上伝票のサンプルです。
